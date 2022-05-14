@@ -1,0 +1,3 @@
+# **WIPER CONTROL SYSTEM**
+A wiper is an important part of a car that cleans the windshield of raindrops or other liquids. Before, you had to manually turn on the wipers by changing the frequency. As a result, there are different ways to speed up the wipers. The goal of the project is to improve the systems of old cars by giving them automatic transmission. wiping system, to improve the system by adding a sensor and actuator, and to make a simple piece of software that would work with the system as a whole. how things work The idea behind this proposed wiper system is similar to that of regular wipers that are already on the market. In spite of the fact. This system will be changed so that it can clean the windshield automatically using a Peripheral Interface.
+
