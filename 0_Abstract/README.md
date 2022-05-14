@@ -1,0 +1,2 @@
+# **WIPER CONTROL SYSTEM**
+The wiper control  system is a control system where the wipers of the car is controlled using a single button . With this project, we will successfully create a system where wiper control will be purely based on a button .
